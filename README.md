@@ -12,9 +12,10 @@
   
 # 💬 I’m currently learning ... 💬
 <br/><br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-C9284D?style=plastic&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-00599C?style=plastic&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-1F36C7?style=plastic&logo=CSharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-002244?style=plastic&logo=Unity&logoColor=white"/>
 <br/><br/><br/>
   
 
