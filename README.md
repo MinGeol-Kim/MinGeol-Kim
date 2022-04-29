@@ -23,7 +23,7 @@
 </div>
 
 ![rlaalsrjf6's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinGeol-Kim&show_icons=true&theme=radical) 
-[![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinGeol-Kim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/본인ID)
+![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MinGeol-Kim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlaalsrjf6)](https://solved.ac/rlaalsrjf6)
 
